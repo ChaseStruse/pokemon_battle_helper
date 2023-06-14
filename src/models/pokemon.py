@@ -5,4 +5,4 @@ from dataclasses import dataclass
 class Pokemon:
     name: str
     types: []
-
+    stats: {}
